@@ -45,8 +45,8 @@ Clone this repository and open it in Android Studio to build and deploy on your 
 <img width="250" height="500" alt="secondpage" src="https://github.com/user-attachments/assets/5d60da96-7304-44e3-b845-12fc30a82d12" />
 
 
-<img width="604" height="1022" alt="thirdpage" src="https://github.com/user-attachments/assets/319f3526-4349-4ab3-bbab-47691ed76722" />
+<img width="250" height="500" alt="thirdpage" src="https://github.com/user-attachments/assets/319f3526-4349-4ab3-bbab-47691ed76722" />
 
 
-<img width="620" height="1030" alt="fourthpage" src="https://github.com/user-attachments/assets/fd331c12-0132-4612-b67e-5a56dbbd1893" />
+<img width="250" height="500" alt="fourthpage" src="https://github.com/user-attachments/assets/fd331c12-0132-4612-b67e-5a56dbbd1893" />
 
