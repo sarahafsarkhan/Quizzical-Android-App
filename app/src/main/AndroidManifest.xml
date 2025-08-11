@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sarahkhan.project">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- Launch activity -->
+        <activity
+            android:name="com.example.sarahkhan.project.WelcomeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Login -->
+        <activity
+            android:name="com.example.sarahkhan.project.LoginActivity"
+            android:exported="true" />
+
+        <!-- Register -->
+        <activity
+            android:name="com.example.sarahkhan.project.MainActivity2"
+            android:exported="true" />
+
+        <!-- Main quiz start page -->
+        <activity
+            android:name="com.example.sarahkhan.project.MainActivity"
+            android:exported="true" />
+
+        <!-- Quiz questions -->
+        <activity
+            android:name="com.example.sarahkhan.project.QuestionsActivity"
+            android:exported="true" />
+
+        <!-- Developer info page -->
+        <activity
+            android:name="com.example.sarahkhan.project.DeveloperActivity"
+            android:exported="true" />
+
+        <!-- Quiz results -->
+        <activity
+            android:name="com.example.sarahkhan.project.ResultActivity"
+            android:exported="true" />
+
+    </application>
+
+</manifest>
