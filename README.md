@@ -35,17 +35,18 @@ The app offers a user-friendly interface, real-time score tracking, and detailed
 
 Clone this repository and open it in Android Studio to build and deploy on your Android device or emulator.
 
-<img width="250" height="500" alt="firstpage" src="https://github.com/user-attachments/assets/2e77142b-1120-456a-ad7b-6a8595b3e9f1" />
-<img width="250" height="500" alt="sample" src="https://github.com/user-attachments/assets/5db64604-43fe-4ad9-9204-ecb73146cb86" />
-
-<img width="250" height="500" alt="secondpage" src="https://github.com/user-attachments/assets/d5646cee-6d6e-41ef-b854-635981d7a9c4" />
-<img width="250" height="500" alt="thirdpage" src="https://github.com/user-attachments/assets/9b1361a3-cc52-4ac0-8239-fdf796b268f8" />
-<img width="250" height="500" alt="fourthpage" src="https://github.com/user-attachments/assets/02f31b42-ddf4-4544-a2f2-74602abfdc82" />
 
 
 
+<img width="610" height="1040" alt="firstpage" src="https://github.com/user-attachments/assets/d8847ebf-1b9c-4455-9d28-5a516c1d08c5" />
+
+<img width="618" height="1038" alt="login" src="https://github.com/user-attachments/assets/d1096684-1299-4286-ae81-e75991215235" />
+
+<img width="604" height="1026" alt="secondpage" src="https://github.com/user-attachments/assets/5d60da96-7304-44e3-b845-12fc30a82d12" />
 
 
+<img width="604" height="1022" alt="thirdpage" src="https://github.com/user-attachments/assets/319f3526-4349-4ab3-bbab-47691ed76722" />
 
 
+<img width="620" height="1030" alt="fourthpage" src="https://github.com/user-attachments/assets/fd331c12-0132-4612-b67e-5a56dbbd1893" />
 
