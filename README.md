@@ -38,11 +38,11 @@ Clone this repository and open it in Android Studio to build and deploy on your 
 
 
 
-<img width="610" height="1040" alt="firstpage" src="https://github.com/user-attachments/assets/d8847ebf-1b9c-4455-9d28-5a516c1d08c5" />
+<img width="250" height="500" alt="firstpage" src="https://github.com/user-attachments/assets/d8847ebf-1b9c-4455-9d28-5a516c1d08c5" />
 
-<img width="618" height="1038" alt="login" src="https://github.com/user-attachments/assets/d1096684-1299-4286-ae81-e75991215235" />
+<img width="250" height="500" alt="login" src="https://github.com/user-attachments/assets/d1096684-1299-4286-ae81-e75991215235" />
 
-<img width="604" height="1026" alt="secondpage" src="https://github.com/user-attachments/assets/5d60da96-7304-44e3-b845-12fc30a82d12" />
+<img width="250" height="500" alt="secondpage" src="https://github.com/user-attachments/assets/5d60da96-7304-44e3-b845-12fc30a82d12" />
 
 
 <img width="604" height="1022" alt="thirdpage" src="https://github.com/user-attachments/assets/319f3526-4349-4ab3-bbab-47691ed76722" />
