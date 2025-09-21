@@ -1,6 +1,6 @@
 # Readme
 
-Quiziccal was developed as an educational project for Android. It is built in Android Studio with SQLite integration for secure local data management.
+Quizzical was developed as an educational project for Android. It is built in Android Studio with SQLite integration for secure local data management.
 
 ## Introduction
 
